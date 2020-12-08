@@ -1,2 +1,2 @@
-# Sample2
-This is optiona;
+# Sample2 Repo
+This is an example
